@@ -2,7 +2,11 @@
 Code and report on the analysis of a weather station using MATLAB
 
 
-Using the programming language MATLAB, I set out to see if I could extract some meaningful information from a weather station in the UK. I had a look at the data gathered throughout the year which contained a reading for temperature and humidity every 5 minutes throughout a year. As you can imagine, this was a lot of data with over 100,000 data points so using excel would have been ineffective. I managed to plot daily temperature and humidity variations, as well as the mean temperature and humidity throughout the year. 
+Using the programming language MATLAB, I set out to see if I could extract some meaningful information from a weather station in the UK.
+I had a look at the data gathered throughout the year which contained a reading for temperature and humidity every 5 minutes throughout a year.
+As you can imagine, this was a lot of data with over 100,000 data points so using excel would have been ineffective.
+I managed to plot daily temperature and humidity variations, as well as the mean temperature and humidity throughout the year.
+
 This project involved:
 -	Combining 4 spreadsheets into one on MATLAB to make analysis more efficient
 -	Creating functions to go through all 100,000 datapoints automatically using if, else functions as well as for loops
